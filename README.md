@@ -1,2 +1,3 @@
 # Git-demo
-This is my 1st gut repository
+This is my 1st git repository.
+Author - Shalini
